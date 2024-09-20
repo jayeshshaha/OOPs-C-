@@ -1,0 +1,14 @@
+/Users/jayeshshaha/Desktop/console-app/bin/Debug/net8.0/console-app
+/Users/jayeshshaha/Desktop/console-app/bin/Debug/net8.0/console-app.deps.json
+/Users/jayeshshaha/Desktop/console-app/bin/Debug/net8.0/console-app.runtimeconfig.json
+/Users/jayeshshaha/Desktop/console-app/bin/Debug/net8.0/console-app.dll
+/Users/jayeshshaha/Desktop/console-app/bin/Debug/net8.0/console-app.pdb
+/Users/jayeshshaha/Desktop/console-app/obj/Debug/net8.0/console-app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jayeshshaha/Desktop/console-app/obj/Debug/net8.0/console-app.AssemblyInfoInputs.cache
+/Users/jayeshshaha/Desktop/console-app/obj/Debug/net8.0/console-app.AssemblyInfo.cs
+/Users/jayeshshaha/Desktop/console-app/obj/Debug/net8.0/console-app.csproj.CoreCompileInputs.cache
+/Users/jayeshshaha/Desktop/console-app/obj/Debug/net8.0/console-app.dll
+/Users/jayeshshaha/Desktop/console-app/obj/Debug/net8.0/refint/console-app.dll
+/Users/jayeshshaha/Desktop/console-app/obj/Debug/net8.0/console-app.pdb
+/Users/jayeshshaha/Desktop/console-app/obj/Debug/net8.0/console-app.genruntimeconfig.cache
+/Users/jayeshshaha/Desktop/console-app/obj/Debug/net8.0/ref/console-app.dll
