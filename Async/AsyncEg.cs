@@ -35,3 +35,25 @@ namespace console_app
         }
     }
 }
+
+
+
+
+// class Program {
+//   public static async Task Main() {
+//     await Task2();
+//     Task1();
+//   }
+  
+//   public static void Task1(){
+//       Console.WriteLine("Task 1");
+//   }
+  
+//   public static async Task Task2(){
+//       await Task.Run(() => {
+//           Console.WriteLine("Task 2 Starting...");
+//           Thread.Sleep(5000);
+//           Console.WriteLine("Task 2 Ending...");
+//       });
+//   }
+// }
